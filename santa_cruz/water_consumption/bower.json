@@ -1,0 +1,15 @@
+{
+  "name": "dataviz_santaCruz",
+  "version": "0.0.1",
+  "private": true,
+  "directory": "bower_modules",
+  "dependencies": {
+    "d3": "latest",
+    "bootstrap": "latest",
+    "nvd3": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
