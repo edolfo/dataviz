@@ -29,3 +29,15 @@ a{
   margin-top: 20px;
   margin-left: 20px;
 }
+
+#consumers{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#consumers svg {
+  height: 550px;
+  width: 1000px;
+  min-width: 600px;
+  min-height: 500px;
+}
